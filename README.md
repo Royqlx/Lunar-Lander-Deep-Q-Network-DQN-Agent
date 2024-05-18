@@ -1,4 +1,4 @@
-# Lunar Lander Deep Q-Network (DQN) Agent
+# Lunar Lander Deep Q-Network (DQN) Agent using Stable Baselines3
 
 This repository implements a Deep Q-Network (DQN) agent using the stable-baselines3 library to solve the Lunar Lander environment from OpenAI Gymnasium. The DQN agent learns to navigate and land a spacecraft safely on the moon's surface through reinforcement learning.
 
